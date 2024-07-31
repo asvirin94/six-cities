@@ -59,8 +59,8 @@ export const NameSpace = {
 export const MAX_REVIEWS_COUNT = 10;
 
 export const URLS = {
-  hotels: 'https://12.react.pages.academy/six-cities/hotels/',
-  comments: 'https://12.react.pages.academy/six-cities/comments/',
+  hotels: 'https://12.react.htmlacademy.pro/six-cities/hotels/',
+  comments: '12.react.htmlacademy.pro/six-cities/comments/',
   nearby: '/nearby'
 } as const;
 
